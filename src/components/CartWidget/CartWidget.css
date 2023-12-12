@@ -1,0 +1,12 @@
+.cart-widget {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .material-icons {
+    font-size: 24px;
+  }
+  
+  .item-count {
+    font-size: 12px;
+  }
