@@ -1,0 +1,23 @@
+
+.contenedorB {
+    padding: 20px;
+  }
+  
+  @media (max-width: 576px) {
+    .contenedorB {
+      padding: 10px;
+    }
+  }
+  
+  @media (min-width: 577px) and (max-width: 768px) {
+    .contenedorB {
+      padding: 15px;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .contenedorB {
+      padding: 20px;
+    }
+  }
+  
